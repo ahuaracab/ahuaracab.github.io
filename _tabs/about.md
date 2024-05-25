@@ -14,8 +14,8 @@ Trataré de que todo el contenido contenga información relevante. No duden en c
 
 Me puedes ubicar en:
 
-- [**LinkedIn**](https://www.linkedin.com/in/ahuaracab/)
-- [**GitHub**](https://github.com/ahuaracab)
-- [**Twitter**](https://twitter.com/QAmaniaTIC)
+- [**LinkedIn**](https://www.linkedin.com/in/ahuaracab/){:target="_blank"}
+- [**GitHub**](https://github.com/ahuaracab){:target="_blank"}
+- [**Twitter**](https://twitter.com/QAmaniaTIC){:target="_blank"}
 
 ¡Gracias por estar aquí!
