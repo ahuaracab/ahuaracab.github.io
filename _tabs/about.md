@@ -16,5 +16,6 @@ Me puedes ubicar en:
 
 - [**LinkedIn**](https://www.linkedin.com/in/ahuaracab/)
 - [**GitHub**](https://github.com/ahuaracab)
+- [**Twitter**](https://twitter.com/QAmaniaTIC)
 
 ¡Gracias por estar aquí!
