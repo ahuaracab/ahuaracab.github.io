@@ -2,13 +2,12 @@
 
 - type: github
   icon: "fab fa-github"
-  url:  'https://github.com/ahuaracab'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
 - type: linkedin
-  icon: "fas fa-linkedin"
+  icon: 'fab fa-linkedin'
   url:  'https://www.linkedin.com/in/ahuaracab/'
 
 # - type: email
