@@ -14,9 +14,9 @@ timezone: America/Lima
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Q4m4ni4TIC # the main title
+title: Q4maniaT1C # the main title
 
-tagline: QA Automation Engineer - ISTQB CTFL - SFPC - EHCA # it will display as the sub-title
+tagline: QA Automation Engineer - Junior Pentester - Junior Project Manager - ISTQB CTFL - SFPC - EHCA # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Página web personal. Artículos y tutoriales sobre testing, automatización de pruebas y ciberseguridad.
