@@ -16,7 +16,7 @@ timezone: America/Lima
 
 title: Q4maniaT1C # the main title
 
-tagline: QA Automation Engineer \| Junior Pentester | Junior Project Manager | EHCA | ISTQB CTFL | SFPC # it will display as the sub-title
+tagline: QA Automation Engineer | Junior Pentester | Junior Project Manager | EHCA | ISTQB CTFL | SFPC # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Página web personal. Artículos y tutoriales sobre testing, automatización de pruebas y ciberseguridad.
